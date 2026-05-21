@@ -1,8 +1,8 @@
 # BOT-Engine (Core)
 
-![Stars](https://img.shields.io/github/stars/Alshrief/BOT-Engine?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Alshrief/BOT-Engine?style=for-the-badge)
-![Watchers](https://img.shields.io/github/watchers/Alshrief/BOT-Engine?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Alshrief/BOT-Engine.svg?style=for-the-badge&cacheSeconds=60)
+![Forks](https://img.shields.io/github/forks/Alshrief/BOT-Engine.svg?style=for-the-badge&cacheSeconds=60)
+![Watchers](https://img.shields.io/github/watchers/Alshrief/BOT-Engine.svg?style=for-the-badge&cacheSeconds=60)
 ![Views](https://komarev.com/ghpvc/?username=Alshrief&repo=BOT-Engine&label=VIEWS&color=blue&style=for-the-badge)
 
 ## Project Overview
