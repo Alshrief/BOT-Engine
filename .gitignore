@@ -1,0 +1,10 @@
+node_modules/
+website/node_modules/
+user.db
+*.log
+.env
+.DS_Store
+1.xml
+ggeConfig.json
+ItemsVersion.properties
+package-lock.json
